@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", "Helvetica", "Source Sans Pro", "Arial", sans-serif; }
+
+.lex-grid-full {
+  max-width: 1200px;
+  margin: 0 auto; }
+
+.lex-site-header {
+  background-image: url("../img/accela-hero.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.lex-navbar {
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 25px 0 25px 0;
+  margin: 0; }
+  .lex-navbar .lex-logo {
+    height: 50px; }
+
+.lex-search-hero-container {
+  padding-top: 150px;
+  padding-bottom: 25px;
+  color: white;
+  background-color: rgba(0, 26, 73, 0.75); }
+  .lex-search-hero-container h1 {
+    font-weight: normal;
+    font-size: 5rem;
+    text-transform: uppercase; }
